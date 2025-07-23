@@ -58,5 +58,7 @@ https://www.kaggle.com/datasets/bwandowando/rotten-tomatoesall-time-best-super-h
 Realizar download dos datasets:
 
 _critic_reviews.csv_
+
 _movies.csv_
+
 _user_reviews.csv_

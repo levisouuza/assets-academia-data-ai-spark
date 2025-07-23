@@ -27,7 +27,6 @@ import os
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"
 os.environ["SPARK_HOME"] = "/content/spark-3.1.1-bin-hadoop3.2"
 ```
-!ls
 
 ## Passo 3:
 Em outra Célula, import a biblioteca e execute o script abaixo
@@ -53,11 +52,11 @@ spark.version
 ```
 
 ## Passo 6:
-** LINK DOWNLOAD DATASETS: **
+**LINK DOWNLOAD DATASETS:**
 https://www.kaggle.com/datasets/bwandowando/rotten-tomatoesall-time-best-super-hero-movies?resource=download&select=user_reviews.csv
 
 Realizar download dos datasets:
 
-__critic_reviews.csv__
-__movies.csv__
-__user_reviews.csv __
+_critic_reviews.csv_
+_movies.csv_
+_user_reviews.csv_

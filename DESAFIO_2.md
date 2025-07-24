@@ -4,7 +4,7 @@
 
 1. Faça o download do arquivo **udemy_output_All_Finance__Accounting_p1_p626.csv**
 
-  **Link para download:** https://github.com/levisouuza/assets-academia-data-ai-spark/blob/main/files/udemy_output_All_Finance__Accounting_p1_p626.csv
+   **Link para download:** https://github.com/levisouuza/assets-academia-data-ai-spark/blob/main/files/udemy_output_All_Finance__Accounting_p1_p626.csv
 
 2. Crie outro Notebook google colab
 
@@ -12,9 +12,9 @@
 
 4. Instale o Spark conforme aula de ontem ou pode seguir o tutorial do git:
   
-  **Link:** https://github.com/levisouuza/assets-academia-data-ai-spark/blob/main/README.md
+   **Link:** https://github.com/levisouuza/assets-academia-data-ai-spark/blob/main/README.md
 
-### Utilizando os conceitos visto ontem, responda as perguntas abaixo com o Spark:
+### Utilizando os conceitos vistos ontem, responda as perguntas abaixo com o Spark:
 
   1. Quantos cursos temos na base de dados ?
   2. Qual o percentual de cursos pagos ?

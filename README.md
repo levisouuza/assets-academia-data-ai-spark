@@ -50,15 +50,3 @@ Em outra célula, para validar escreva:
 ```python
 spark.version
 ```
-
-## Passo 6:
-**LINK DOWNLOAD DATASETS:**
-https://www.kaggle.com/datasets/bwandowando/rotten-tomatoesall-time-best-super-hero-movies?resource=download&select=user_reviews.csv
-
-Realizar download dos datasets:
-
-_critic_reviews.csv_
-
-_movies.csv_
-
-_user_reviews.csv_
